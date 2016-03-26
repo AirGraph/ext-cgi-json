@@ -1,0 +1,14 @@
+{
+  "name": "ext-cgi-json",
+  "version": "0.0.3",
+  "description": "Json CGI for ExtJS AJAX proxy.",
+  "main": "ext-cgi-json.js",
+  "keywords": [
+    "ExtJS",
+    "CGI",
+    "json"
+  ],
+  "dependencies": {},
+  "author": "Jungle Software",
+  "license": "ISC"
+}
